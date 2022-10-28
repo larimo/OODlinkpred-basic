@@ -2,9 +2,7 @@
 
 ## Introduction
 
-This is a sample implementation of out-of-distribution link prediction in PyTorch to analyze
-accuracy of various graph learning methods on out-of-distribution link prediction tasks where
-the training graphs are sub-sampled from original large graphs by several sampling methods.
+This is a sample implementation of out-of-distribution link prediction in PyTorch.
 
 ## Authors
 [Larissa Mori](https://web.ics.purdue.edu/~lkawanom), Rajdeep Haldar
